@@ -22,7 +22,7 @@
   :PlugInstall
    ```
    3. Restart terminal
-   4. Remove :PlugInstall from .vimrc
+   4. Remove ```:PlugInstall``` from .vimrc
    
 ![vim-flutter-demo](https://user-images.githubusercontent.com/6632748/187122848-e3f85831-bcb4-4d80-91f2-0e755e40a5a7.gif)
 
