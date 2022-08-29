@@ -7,6 +7,5 @@
 
 <img width="1019" alt="Screen Shot 2022-08-29 at 12 00 43 AM" src="https://user-images.githubusercontent.com/6632748/187120552-1cf09437-8dfc-4b07-9b2c-a81364ed15e3.png">
 
-<img width="891" alt="Screen Shot 2022-08-28 at 11 59 28 PM" src="https://user-images.githubusercontent.com/6632748/187120727-67ec2eb3-0f35-4df7-aff7-d83da6cb7ef6.png">
-
+<img width="1126" alt="Screen Shot 2022-08-28 at 11 58 41 PM" src="https://user-images.githubusercontent.com/6632748/187120853-06f154cf-a360-470e-a7df-557e77bd6116.png">
 
