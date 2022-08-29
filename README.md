@@ -15,11 +15,11 @@
   1. Download vim-plugin  to .vim/autoload directory 
     ``` curl -fLo ~/.local/share/nvim/site/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim```
   2. Edit .vimrc to add dart syntax plugin
-  ```call plug#begin()
-     ... <snip other plugins>
-     Plug 'dart-lang/dart-vim-plugin'
-     call plug#end()
-      :PlugInstall
+  ```
+  call plug#begin()
+  Plug 'dart-lang/dart-vim-plugin'
+  call plug#end()
+  :PlugInstall
    ```
    3. Restart terminal
    4. Remove :PlugInstall from .vimrc
