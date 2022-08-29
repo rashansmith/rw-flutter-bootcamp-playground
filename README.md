@@ -9,3 +9,22 @@
 
 <img width="1126" alt="Screen Shot 2022-08-28 at 11 58 41 PM" src="https://user-images.githubusercontent.com/6632748/187120853-06f154cf-a360-470e-a7df-557e77bd6116.png">
 
+
+## Notes:
+- How to add flutter editor to vim:
+  1. Download vim-plugin  to .vim/autoload directory 
+    ``` curl -fLo ~/.local/share/nvim/site/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim```
+  2. Edit .vimrc to add dart syntax plugin
+  ```call plug#begin()
+     ... <snip other plugins>
+     Plug 'dart-lang/dart-vim-plugin'
+     call plug#end()
+      :PlugInstall
+   ```
+   3. Restart terminal
+   4. Remove :PlugInstall from .vimrc
+   
+![vim-flutter-demo](https://user-images.githubusercontent.com/6632748/187122848-e3f85831-bcb4-4d80-91f2-0e755e40a5a7.gif)
+
+
+
