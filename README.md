@@ -2,11 +2,16 @@
 
 ## Homework 3
 
+### Assignment 1
 ![hw3-giphy](https://user-images.githubusercontent.com/6632748/192318119-bb60d709-8931-4bd8-898d-2601bc8664a7.gif)
 Link to hw3 file: https://github.com/rashansmith/rw-flutter-bootcamp-playground/blob/main/lib/hw3.dart
 
 - Notes
   - Having an issue with the logic, as hamsandwich is always chosen for some reason  
+
+### Assignment 2
+![pokemon-battle](https://user-images.githubusercontent.com/6632748/192386098-da0bb5ef-98ba-468b-9a20-c961012c5277.gif)
+
   
 ## Homework 2
 
