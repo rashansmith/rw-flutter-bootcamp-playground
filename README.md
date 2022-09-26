@@ -1,4 +1,13 @@
 # rw-flutter-bootcamp-playground
+
+## Homework 3
+
+![hw3-giphy](https://user-images.githubusercontent.com/6632748/192318119-bb60d709-8931-4bd8-898d-2601bc8664a7.gif)
+Link to hw3 file: https://github.com/rashansmith/rw-flutter-bootcamp-playground/blob/main/lib/hw3.dart
+
+- Notes
+  - Having an issue with the logic, as hamsandwich is always chosen for some reason  
+  
 ## Homework 2
 
 <img width="891" alt="Screen Shot 2022-08-28 at 11 59 28 PM" src="https://user-images.githubusercontent.com/6632748/187120507-aa340cfc-b702-4ebd-ba7d-3375c346d79c.png">
